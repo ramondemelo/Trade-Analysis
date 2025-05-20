@@ -10,7 +10,7 @@ KEY FEATURES OF THIS PROJECT:
 - Data Visualization: Developed visualizations using Matplotlib to present key export insights.
 - Comparative Country Analysis: Compared export performance across different nations, identifying dominant players.
 
-SKILLS USED IN THIS PROJECT
+SKILLS USED IN THIS PROJECT:
 - Data Analysis & Processing: Cleaning, filtering, and transforming complex trade datasets for deeper insights.
 - Pandas & NumPy: Performing efficient data manipulation, statistical calculations, and structuring information for visualization.
 - Matplotlib & Seaborn: Designing compelling charts to make trade trends more accessible.
