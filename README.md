@@ -1,6 +1,7 @@
 # Trade-Analysis
 
 DESCRIPTION: 
+
 This project explores the evolving export trends of the world’s five largest exporting nations—China, Germany, the USA, the Netherlands, and Japan—using IMF trade data from 2016 to 2023. Through data analysis and visualization techniques, I examine shifts in global trade patterns, identifying key insights in export dominance.
 Using Python, Pandas, and Matplotlib, I transformed raw economic data into meaningful visual narratives.  The project delves into year-over-year export fluctuations, comparative country analysis, and trend projections, offering valuable insights into the global trade ecosystem
 
